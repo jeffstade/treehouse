@@ -3,3 +3,9 @@ jeff:
   last_name: "Stern"
   email: "jeff@stern.com"
   profile_name: "jeffstern"
+
+jim:
+  first_name: "jim"
+  last_name: "Stern"
+  email: "jim@stern.com"
+  profile_name: "jimstern"
